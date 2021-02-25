@@ -13,7 +13,7 @@ To use the jupyter notbook the standard python libraries pandas, matplotlib and 
 
 ## Project Motivation<a name="motivation"></a>
 
-As motivation of this project I would like to analyze current data from the year 2020 of the [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) data  regarding the following business question:
+As motivation of this project I would like to analyze current data from the year 2020 of the [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) data  regarding the following business questions:
 
 1. What are currently the most desired programming languages?
 2. What are currently the most used programming languages?
