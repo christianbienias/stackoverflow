@@ -10,7 +10,7 @@
 ## Installation <a name="installation"></a>
 
 To use the jupyter notbook the standard python libraries pandas, matplotlib and seaborn are used.This ensures a comprehensive use of the notebook.
-The [Stack Overflow Annual Developer Survey](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing) dataset from 2020 is required
+The [Stack Overflow Annual Developer Survey](https://drive.google.com/file/d/1dfGerWeWkcyQ9GX9x20rdSGj7WtEpzBB/view?usp=sharing) dataset from 2020 is required.
 
 ## Project Motivation<a name="motivation"></a>
 
